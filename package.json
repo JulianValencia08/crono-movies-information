@@ -1,0 +1,19 @@
+{
+  "name": "crono-movies-information",
+  "version": "1.0.0",
+  "description": "A webapp to inform the people about the right order of the movies",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianValencia08/crono-movies-information.git"
+  },
+  "author": "Julian Valencia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulianValencia08/crono-movies-information/issues"
+  },
+  "homepage": "https://github.com/JulianValencia08/crono-movies-information#readme"
+}
